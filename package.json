@@ -1,0 +1,13 @@
+{
+  "name": "webpack-poc",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "author": "Minhui.Zhao <minhui.zhao@thoughtworks.com>"
+}
